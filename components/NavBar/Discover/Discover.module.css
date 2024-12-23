@@ -1,0 +1,11 @@
+.discover{
+    padding: .5rem .7rem;
+    transition:  all .15s ease-in;
+    z-index: 2222222222;
+}
+
+.discover:hover{
+    background-color: var(--icons-color);
+    color: var(--main-bg-color);
+    border-radius: .3rem;
+}
